@@ -1,0 +1,6 @@
+{
+  "name": "MultiView",
+  "description": "YouTube Multi-View Loop Player for running a video simultaneously across 1 to 20 looping screens in a responsive grid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
